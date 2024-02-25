@@ -1,0 +1,114 @@
+to be thrown in prison (past singular masculine),ترمى في الحبس
+legislation,تَشْرِيعْ
+sentencing, ruling in a court case,تَصْرِيحْ بِالحُكْمْ
+to vote for someone (past singular masculine),تصوتلو
+application of the law, execution,تَطْبِيقْ القَانُونْ
+to protest, hold a protest (past singular masculine),تْظَاهِرْ
+police search, investigation,حَمْلَةْ تَفْتِيشْ
+proof of innocence,دَلِيلْ بَرَاءَة
+undercover police officer,سِيفِيلْ
+secret agent, spy,عَمِيلْ
+army, military,عَسْكِرْ
+to demand one’s rights (past singular masculine),طْلَبْ حَقُّو
+labor union,وِدَادِيَّةْ
+attorney, lawyer,مُحَامِي
+authentication, approval,مُصَادْقَةْ
+to void a law (past singular masculine),لْغَى القَانُونْ
+to void a contract (past singular masculine),قَصّْ عَلْ الكُونْتْرَا
+candidate,مِتْرَشَّحْ
+Childhood Court,مَحْكَمَةِ الطُفُولَةْ
+communist,كُومِينِيسْتْ
+prisoner of war camp,مُعَسْكَرْ إِعْتِقَالْ
+confiscation of property,مُصَادَرَةْ أَمْلاَكْ
+foundational assembly,مَجْلِسْ تَأْسِيسِي
+court,مَحْكْمَةْ
+The Honored Court,هَيْئَةْ المَحْكْمَةْ
+Court of Appeal,مَحْكَمَةْ الإِسْتِئْنَافْ
+Court of Cassation, Supreme Court,مَحْكَمَةِ التَّعْقِيبْ
+courtroom,قَاعَةْ المَحْكْمَةْ
+Criminal Court,مَحْكَمَةِ الجِنَايَاتْ
+Crown Prince,وَلِيْ العَهْدْ
+protest, demonstration,مَسِيرَةْ
+path, where one is going in life,مَسِيرَةْ
+protest, demonstration,مُظَاهْرَةْ
+Deputy in Parliament,نَائِبْ فِي البَرْلَمَانْ
+double agent,عَمِيلْ مُزْدَوَجْ
+patriotic duty,وَاجِبْ تُجَاهْ الوَطَنْ
+elected, chosen,مُنْتَخَبْ
+national team,مُنْتَخَبْ
+exempt from prosecutions or procedures,مُعْفَى مِنَ التَتَبُعًاتْ
+exiled,مِنْفِي
+fascist,فَاشِي
+for the sake of the nation, for the country,فِي سَبِيلْ لْوَطَنْ
+General Secretary,كَاتِبْ عَامْ
+government headquarters,مَقَرّْ الحُكُومَةْ
+governmental, public, of the state,لِيطَاتِيكْ
+governor,وَالِي
+guardianship, custody,كَفَالَةْ
+guarantee, promise, bail,كَفَالَةْ
+handcuffs,مِنُوطْ
+writer or granter of the will,مُولَى الوْصِيَّةْ
+His Excellency the President of the Republic,مَعَالِي سِيَادَةْ رَئِيسْ الجُمْهُورِيَّةْ
+human rights activist,نَاشِطْ حُقُوقِي
+human rights organization,مُنَظّْمَةْ حُقُوقِيَّةْ
+national anthem,نَشِيد وَطَنِي
+arrested, being held by the police, in custody,فِي لْوُقُوفْ
+intelligence officials, informants,مُخَابَرَاتْ
+state security forces,قُوَّاتْ الأَمْنْ الدَّاخِلِي
+to jump off of (past singular masculine),نَقِّزْ مِنْ فُوقْ
+justice,عَدَالَةْ
+justice,عَدْلْ
+king,مَلِكْ
+Kremlin,كْرِمْلِنْ
+law,قَانُونْ
+to lease, sign a rental contract (past singular masculine),عْمَلْ عَقْدْ كِرَاءْ
+legal,قَانُونِي
+legal,لِيقَالْ
+legal jurisprudence,فِقْهْ قَانُونِي
+legally,قَانُونِيَّا
+legislative amnesty,عَفْوْ تَشْرِيعِي
+list of voters,قَائِمَةْ النَّاخِبِينْ
+minister (government),وْزِيرْ
+Minister of Foreign Affairs,وْزِيرْ الشُّؤُونْ الخَارِجِيَّةْ
+ministry (government),وْزَارَةْ
+monarchy,مُونَارْشِي
+Nazi,نَازِي
+fascism,فَاشِيزْمْ
+to negotiate, deliberate (past singular masculine),نِيقُوسَى
+NGOs,مُنَظَّمَاتْ غَيْرْ حُكُومِيَّةْ
+Nida Tounis political party,نِدَاءْ تُونِسْ
+official spokesman,نَاطَقْ رَسْمِي
+pact, charter,مِيثَاقْ
+Parliament,مَجْلِسْ النُّوَابْ
+Parliament (old term),مَجْلِسْ الأُمَّةْ
+patriotic,وَطَنِي
+patriotism,وَطَنِيَّةْ
+nation, country,وَطَنْ
+peace pact, agreement,مُعَاهَدَةْ سَلَامْ
+penalty,عُقُوبَةْ
+personal affairs judge,قَاضِي الأَحْوَالْ الشَخْصِيَّةْ
+police inspector,مُفَتِّشْ شُرْطَةْ
+police uniform,كِسْوَةْ البُولِيسْ
+presidential motorcade, entourage,مَوْكِبْ رِئَاسِي
+press secretary,مِتْكَلِّفْ بِالإِعْلَامْ
+detainment center,قَفَصُ الِإتِّهَامْ
+public prosecutor,مُدَّعِي عَامْ
+regional council,مَجْلِسْ جِهَوِي
+embassy representative,مُمَثِّلْ عَنْ السِّفَارَةْ
+extreme right,يَمِينْ مُتَطَرِّفْ
+royal,kingly,مَلَكِي
+secret agent,عَمِيلْ سِرِّي
+Secretary of State,كَاتِبْ دَوْلَةْ
+sentenced, charged,مَحْكُومْ
+identity card for police officers or army personnel,كَارْطْ دُو سَرْفِيسْ
+to sign a peace pact, agreement (past singular masculine),وَقْعُو إِتِفَاقِيَّةْ سَلَامْ
+judicial board, council,مَجْلِسْ قَضَائِي
+syndicate, union,نَقَابَةْ
+system, government,نِظَامْ
+defense lawyer,مُحَامِي الدِّفَاعْ
+to deny someone’s rights, to deprive someone (past singular masculine),مَعْطَاوْهُوشْ حَقُّو
+treaty, agreement,مُعَاهْدَةْ
+truce, ceasefire,هُدْنَةْ
+under arrest,فِي حَالِةْ إيقاف
+Unesco,يُونِسْكُو
+high-ranking attorney with greater powers, works for state,وَكِيلْ الجُمْهُورِيَّة

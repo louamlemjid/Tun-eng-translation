@@ -1,0 +1,500 @@
+in, on, to,فِي
+on, about, against,عَلَى
+from, since,مِنْ
+who, that (relative pronoun),إلِّي
+what, that,مَا
+first half of negation,مَا
+to say, speak (past singular masculine),قَالْ
+future marker,بَاشْ
+I, me,أنَا
+no,لاَ
+at, for, with,عَنْدْ
+With, by, at,مَعَ
+to be (past singular masculine),كَانْ
+of, belongs to, has to do with, from,مْتَاعْ
+All, each, every,كُلْ
+you (singular ),إنْتِي
+to come (past singular masculine),جَا
+there is, there are,فَمَّا
+now,تَوَّا
+that,هَاذَا
+to go, walk (past singular masculine),مْشَى
+to count on, depend on (past singular masculine),عَمِّلْ
+hey, you, oh,يَا
+to introduce, make known (past singular masculine),عَرِّفْ
+to want, love (past singular masculine),حبّْ
+until, even,حَتَّا
+something,حَاجَة
+to say, tell story, talk about (past singular masculine),حْكَا
+to be able to, allowed to, can (past singular masculine),نَجِّمْ
+what,شنوا
+as, when, like,كِي
+to see (past singular masculine),شَافْ
+chief, boss,شَافْ
+to get someone to smoke, do drugs (past singular masculine),كَيِّفْ
+to cool/heat a room (air conditioner) (past singular masculine),كَيِّفْ
+to facilitate, make appropriate/possible (past singular masculine),كَيِّفْ
+a lot, much, many, very,بَرْشَة
+not, negation,مِشْ
+he, it,هُوَ
+one,وَاحِدْ
+because,خَاطِرْ
+his benefit, for his sake,خَاطِرْ
+mother,أُمْ
+to find (past singular masculine),لْقَى
+spirit, breath,رُوحْ
+Go!,رُوحْ
+nothing,شىء
+here is…,هَاوْ
+to become (past singular masculine),وَلَّى
+son,وِلْدْ
+to begin, start (past singular masculine),بدى
+this is important, don’t forget, this is true,راهو
+she or it,هِيَ
+good, ok, all right,بَاهِي
+God,االله
+to serve, work for (past singular masculine),خْدِمْ
+brother,خُو
+to enter (past singular masculine),دْخَلْ
+yes,إيْ
+but, yet,أَمَّا
+after,بَعْدْ
+Man,رَاجِلْ
+the last,آخِرْ
+a little, some, a few,شْوَيَّا
+that,أذَاكَا
+like, as,كِيمَا
+to go out (past singular masculine),خْرَجْ
+to sit, stay (past singular masculine),قْعَدْ
+Tunisia,توْنسْ
+woman,مَرْأَةْ
+sense, meaning,مَعْنَى
+time,وَقْتْ
+how,كِيفَاشْ
+problem,مُشْكِلْ
+slave, servant,عْبِدْ
+who,أشْكُونْ
+somebody,أشْكُونْ
+to listen (past singular masculine),سْمَعْ
+story,حْكَايَة
+people,نَاسْ
+father,بو
+friend,صَاحِبْ
+always,دِيمَا
+must, has to be,لَازِمْ
+to allow, to leave (past singular masculine),خَلَّا
+he took,خْذَا
+Omar (man’s name),عُمَرْ
+before,قْبَلْ
+year, school grade,سَنَةْ
+some,بَعْضْ
+a house,دار
+a year,عَامْ
+God, the Lord,رَبِّى
+Sir, Mr.,سي
+either, or,إمَّا
+word,كِلْمَةْ
+big, large, old,كْبِيرَ
+discourse marker expressing hearer’s knowledge, speaker’s frustration,تي
+day,يُومْ
+job, work, service,خِدْمَة
+better,خِيرْ
+blessing, something good,خِيرْ
+why,عْلَاشْ
+daughter,بِنْتْ
+day,نْهارْ
+we,أحْنَا
+feeling,حَسْ
+to live (past singular masculine),عَاشْ
+to bring (past singular masculine),جاب
+not, negative marker,مُوشْ
+why are you, what’s the matter with you?,شْبِيكْ
+head,رَاسْ
+name, noun,إسْمْ
+like that, that way,أكَا
+also, too,زَادَا
+still, not yet,مَازَالْ
+then, as a result, so (intuitive result),يَاخِي
+money,فْلُوسْ
+Dad,بَابَا
+one time, once,مَرَّة
+mister, sir,سَيِّدْ
+master,سَيِّدْ
+sitting down,قَاعِدْ
+doing something currently,قَاعِدْ
+new,جْدِيدْ
+morning,صْبَاحْ
+Tunisian, Tunisian person,تُونْسِي
+to return (past singular masculine),عَادْ
+to visit a sick person (past singular masculine),عَادْ
+go, get out of here, go ahead,بَرَّا
+two,زُوزْ
+to teach, instruct (past singular masculine),قَرَّى
+to hold, take, pick up (past singular masculine),هَزّْ
+about, to do with,عَنْ
+to come back (past singular masculine),رْجَعْ
+more,أكْثِرْ
+hour,سَاعَة
+hour,سَاعَة
+the first modern secondary school in Tunisia (near Kasba),صَادْقِيَّة
+near, close to, next to,بَحْذَا
+to add (past singular masculine),زَادْ
+to explain (past singular masculine),فَهِّمْ
+for no reason,أكَّاكَا
+like that,أكَّاكَا
+it was ok, not great,أكَّاكَا
+right,حَقْ
+life,حَيَاةْ
+Hayat (woman’s name),حَيَاةْ
+to hold, grab (past singular masculine),شد
+wedding,عِرْسْ
+hand, arm,يِدْ
+place,بْلَاصَة
+where,وِينْ
+to put, place (past singular masculine),حطْ
+if,إذَا
+limit, end,حَدّْ
+person,حَدّْ
+alive,حَيْ
+to reach, arrive (past singular masculine),وْصِلْ
+to buy, purchase (past singular masculine),شْرَى
+we,نَحْنَا
+Yasser (man’s name),يَاسِرْ
+to see (past singular masculine),رَا
+to eat (past singular masculine),كْلَا
+to write, edit, compose (past singular masculine),ألِّفْ
+clay used for making skin smooth, brighter,طفَلْ
+four,أرْبْعَةْ
+bullet,بَالْ
+girl,طُفْلَةْ
+relation, relationship,عَلَاقَةْ
+in front of,قُدّامْ
+between,بِينْ
+to open, turn on, begin (past singular masculine),حَلْ
+really small or young (cute),صْغَيَّرْ
+type,نَوْعْ
+country, hometown,بْلَادْ
+brain, mind,مُخّْ
+to oblige, force, require (past singular masculine),لْزِمْ
+right,صْحِيحْ
+life, the world, everything,دِنْيَا
+month,شْهَرْ
+full, complete, perfect,كَامِلْ
+to no longer have feelings, be hard (past singular masculine),مَاعَادِشْ إِحِسّْ
+one hundred,مْيَا
+here,لَهْنَا
+existing,مَوْجُودْ
+subject, matter,مَوْضُوعْ
+to catch something contagious (past singular masculine),تِعْدَى
+eye,عِينْ
+evil eye,عِينْ
+take, here is,هَاكْ
+divorce,طْلَاقْ
+let’s, come on,هَيَّا
+to speak, talk (past singular masculine),تْكَلِّمْ
+to give (past singular masculine),عْطَى
+car,كَرْهْبَةْ
+that,هَذَاكَا
+sister,أُخْتْ
+private, personal,خَاصْ
+heart,قَلْبْ
+to play (past singular masculine),لّعَبْ
+night,لِيلْ
+one, thing, person,وَحْدَا
+five,خَمْسَة
+worker, employee,عَامِلْ
+to change, transform (past singular masculine),غَيِّرْ
+for example,مَثَلًا
+door,بَابْ
+how much,قَدَّاشْ
+to start, begin, commence (past singular masculine),بْدَا
+to watch, view (past singular masculine),تفرّج
+illegal marriage, but not anti-Islamic,عُرْفِي
+to judge, rule, sentence (past singular masculine),حْكَمْ
+to sleep, fall asleep (past singular masculine),رقد
+twenty,عِشْرِينْ
+there,غَادِي
+Coffee,قَهْوَةْ
+coffee shop, café,قَهْوَةْ
+face,وْجْهْ
+action (usually negative connotation),عَمْلَةْ
+clothes,لِبَاسْ
+logical but not intuitive result,مَالَا
+to do something, to get up, stand up (past singular masculine),قَامْ
+welcome,مَرْحْبَا
+sometimes,سَاعَاتْ
+to live, dwell (past singular masculine),سْكِنْ
+to show, indicate (past singular masculine),ظَهِّرْ
+breath,نْفَسْ
+Where are you?, How are you?,وِينِكْ
+donkey,بْهِيمْ
+idiot, stupid person,بْهِيمْ
+to laugh (past singular masculine),ضْحَكْ
+to hit, beat (past singular masculine),ضْرَبْ
+to spend time, to eat lots (slang) (past singular masculine),ضْرَبْ
+film, movie,فِيلِمْ
+to enlarge, to grow (past singular masculine),كَبِّرْ
+hair,شْعَرْ
+to die, pass away (past singular masculine),مَاتْ
+to sell (past singular masculine),بَاعْ
+one dinar,دِينَارْ
+health,صِحَّةْ
+habit, tradition,عَادَةْ
+ten,عَشْرَةْ
+that,أَن
+atmosphere, weather, ambience,جّو
+family,عَايْلَةْ
+familial,عَايْلِي
+team, crew,فَرِيقْ
+Dog,كَلْبْ
+to forget (past singular masculine),نْسَا
+to drink (past singular masculine),شْرَبْ
+to go up in price (past singular masculine),غَلَّا
+lying,كِذْبْ
+what a, how,مَلاَّ
+here,هُونِي
+God willing,إنشاالله
+bad,خَايِبْ
+to go back home, return (past singular masculine),رَوَّحْ
+street, avenue,شَارِعْ
+Arab,عَرْبِي
+one million,مَلْيُونْ
+one thousand dinars,مَلْيُونْ
+quickly, fast, hurry up,فِيسَعْ
+to be afraid (past singular masculine),خَافْ
+good, great,مْلِيحْ
+that’s enough, stop, quit,يِزِّي
+to stay, remain (past singular masculine),بقى
+neighborhood,حُومَة
+point of view, opinion,رَايْ
+six,سِتَّة
+to marry (past singular masculine),عَرِّسْ
+father, dad,وَالِدْ
+when,وَقْتَاشْ
+there you go, there something is,أهَوْكَةَ
+difficult,صْعِيبْ
+strict, tough,صْعِيبْ
+fine, doing well, good,لَابَاسْ
+alone, on his one, single,وَحِيدْ
+Wahid (man’s name),وَحِيدْ
+first,أوّل
+could I ask you something?,بالله بِشْ نِسْهْلِكْ
+for God’s sake, please,بْرَبِّي
+neighbour,جَارْ
+is it true?, really?, maybe, perhaps,زَعْمَة
+up or above, on top of,فُوقْ
+court case,قَضِيّةْ
+to go down (past singular masculine),هْبَطْ
+like that, that way,هَكَّا
+to switch, change (past singular masculine),بدّل
+to try, attempt (past singular masculine),حَاوِلْ
+Hannen (Tunisian woman’s name),حَنَانْ
+doctor,طْبِيبْ
+world,عَالَمْ
+to finish, continue (past singular masculine),كَمِّلْ
+player,لَاعِبْ
+the first,لُولْ
+food,مَاكْلَةْ
+she isn’t,مَهِيشْ
+of course,بِالطْبِيعَة
+picture, image,تَصْوِيرَة
+Tunisians,تْوَانْسَة
+natural,طَبِيعِي
+hello, hi,أهْلَا
+revolution,ثَوْرَة
+condition, situation,حَالَة
+terrible situation, how bad,حَالَة
+Mr. President,سيادة الرئيس
+water,مَاءْ
+phone, telephone,تَلِفُونْ
+to forgive (past singular masculine),سَامَحْ
+straight ahead, direct,طُولْ
+length,طُولْ
+precious, important, beloved, dear,عْزيزْ
+important,مُهِمّْ
+clean,نْظِيفْ
+yeah, uhuh,آهْ
+ooh, missing the old times,آهْ
+sentence, PHR,جُمْلَة
+prison, jail,حَبْسْ
+political party,حِزْبْ
+to stay awake (past singular masculine),سهر
+party, evening fun,سَهْرِيَّة
+picture, image, photo,صُورَةْ
+normal,عَادي
+specific, given,مُعَيِّنْ
+far, away, distant,بْعِيدْ
+education, discipline, politeness,تُرْبِيَة
+milk,حْلِيبْ
+to accept (past singular masculine),قبِلْ
+he is going out,خَارِجْ
+market,سُوقْ
+to pass on, infect (past singular masculine),عْدَى
+to step, move forward (past singular masculine),قَدّمْ
+to develop (past singular masculine),قَدّمْ
+to present, introduce (past singular masculine),قَدّمْ
+but, yet,لَكِنْ
+elected, chosen,مُنْتَخَبْ
+national team,مُنْتَخَبْ
+incomplete, lacking, missing,نَاقِصْ
+hey,هَا
+the beginning, the first of,أَوّلْ
+eight,ثْمَانْيَة
+a group,جْمَاعَة
+education, studies,قْرَايَةْ
+successful,نَاجِحْ
+text,نَصْ
+clear,وَاضِحْ
+to imagine, think (past singular masculine),تصوّر
+to get your picture taken (past singular masculine),تصوّر
+truth,حْقِيقَة
+to think (past singular masculine),خمِّمْ
+doctor,دُكْتُورْ
+to mean, intend (past singular masculine),قْصَدْ
+to go toward (past singular masculine),قْصَدْ
+you didn’t, negation of “you”,مَاكِشْ
+to shorten, lessen (past singular masculine),نَقِّصْ
+if,إنْ
+under,تَحْتْ
+television,تَلْفْزَة
+Love,حُبّْ
+dear, beloved,حْبِيبْ
+to calculate, add up (past singular masculine),حْسِبْ
+thought,حْسِبْ
+sweet, delicious,حْلُو
+nice, beautiful,حْلُو
+he turned,دَارْ
+a house,دَارْ
+beneath, without,دُونْ
+expensive,غَالِي
+valuable, significant,غَالِي
+to purchase, buy, go shopping (past singular masculine),قْضَى
+one piece, one of, one item,كَعْبَةْ
+to talk to, speak to (past singular masculine),كَلِّمْ
+time period,مُدَّةْ
+to become ill, sick (past singular masculine),مْرُضْ
+married,مَعَرِّسْ
+to take off, remove (past singular masculine),نَحِّي
+here,هْنَا
+condition,حَالْ
+opening,حَالْ
+to be present (past singular masculine),حْضَرْ
+to be ready (past singular masculine),حْضَرْ
+the aunt (mother’s sister),خَالَة
+to have cooked, be ready to eat (past singular masculine),طَابْ
+tomorrow,غُدْوَةْ
+to have fun, welcome, treat well (past singular masculine),فْرَحْ
+to write (past singular masculine),كْتِبْ
+ball,كُورَةْ
+attorney, lawyer,مُحَامِي
+coach, manager,مُدَرِّبْ
+soon, I’ll go do that,آتَوّا
+less,أقَلْ
+human, person,إنْسَانْ
+only, one, just,بَرْكْ
+to hope for, hope (past singular masculine),ترجّى
+to ask for, beg (past singular masculine),ترجّى
+regional offices, branches, regionalism,جِهَاوِيَّاتْ
+fifty,خَمْسِينْ
+price,سُومْ
+Chafik (man’s name),شَفِيقْ
+compassionate, merciful person,شَفِيقْ
+to wonder, like, be amazed (past singular masculine),عْجَبْ
+perhaps, maybe,يُمْكِنْ
+you plural, y’all,إنْتُومَة
+exactly,بالضَّبْطْ
+municipality, town hall,بلديّة
+to train, work out, practice a sport (past singular masculine),ترانى
+to behave, act, take action (past singular masculine),تصرّف
+to pull (past singular masculine),جْبِدْ
+to close, close partially (past singular masculine),رَدْ
+to answer, react (past singular masculine),رَدْ
+to vomit, throw up (past singular masculine),رَدْ
+question,سُؤَالْ
+to call, ask for (past singular masculine),طْلَب
+therapy, treatment,عِلَاجْ
+operation, action,عَمَلِيَّةْ
+thought, idea,فِكْرَة
+Card, credit card, playing cards,كَارْطَةْ
+book,كْتَابْ
+to multiply something, increase (past singular masculine),كَثِّرْ
+to wear, put on (past singular masculine),لِبِسْ
+metro,مِتْرُو
+sick,مْرِيضْ
+dead, deceased,مَيِّتْ
+paper or leaf,وَرْقَة
+better,أحْسِنْ
+administration, office, management,إدَارَةْ
+Oh, oh no,أوهْ
+card,بِطَاقَة
+desk, office,بيرو
+to remember (past singular masculine),تْفَكِّرْ
+week,جِمْعَة
+Friday,جِمْعَة
+conversation,حْدِيثْ
+protectors,حُمَاةْ
+to turn, turn around (past singular masculine),دورْ
+to drive (past singular masculine),سَاقْ
+leg, foot,سَاقْ
+to close, turn off (past singular masculine),سَكِّرْ
+to give over, hand over (past singular masculine),سَلِّمْ
+to greet, say hi (past singular masculine),سَلِّمْ
+summer,صِيفْ
+against,ضِدّْ
+to repeat, do something again (past singular masculine),عَاوِدْ
+feast, vacation,عِيدْ
+respect,قْدَرْ
+destiny,قْدَرْ
+respectful distance,قْدَرْ
+old,قْدِيمْ
+one moment, just a moment,لَحْظَةْ
+miss, ma’am,مَادَامْ
+place, area,مَكَانْ
+normal, no problem,نُورْمَالْ
+cop, police,بُولِيسْ
+room,بِيتْ
+history,تَارِيخْ
+second,ثَانِي
+clothes,حْوَايِجْ
+things,حْوَايِجْ
+fifteen,خْمُسْتَاشْ
+gold,ذْهَبْ
+seven,سَبْعَة
+to fall (past singular masculine),طَاحْ
+small piece,طَرْفْ
+Ali (man’s name),عْلِي
+there,غَادِيكَا
+same,فَرْدْ
+gun,فَرْدْ
+close,قْرِيبْ
+to seek, look for, search for (past singular masculine),لَوِّجْ
+Maroua (woman’s name),مَرْوَى
+straight, level,مِسْتْوِي
+known, popular,مَعْرُوفْ
+law,قَانُونْ
+give me,هَاتْ
+patriotic,وَطَنِي
+Walid (man’s name),وَلِيدْ
+white,أبْيِضْ
+yesterday,بارح
+Ines (woman’s name),إينَاسْ
+free,بْلَاشْ
+from the family of,بني
+girl,بِنِيَّة
+to die, pass away (past singular masculine),تْوَفَى
+judge,حَاكِمْ
+police,حَاكِمْ
+to pay, give a salary (past singular masculine),خَلْص
+to save, rescue, get out of a tough situation (past singular masculine),خَلْص
+to comfort, tell someone “May God have mercy on him” (past singular masculine),رحّم
+athlete,رِيَاضِي
+luck,زْهَرْ
+easy,سَاهِلْ
+young person, handsome,شباب
+to not sleep all night, pull an all-nighter (past singular masculine),صَبَّحْ
+to greet someone in the morning (past singular masculine),صَبَّحْ
+to repair, to fix (past singular masculine),صَلَّحْ
+to be always with someone, something (negative connotation) (past singular masculine),عَابِدْ
+flag,عَلَمْ
+to teach, educate (past singular masculine),عَلِّمْ
+to pass by, go on (past singular masculine),فَاتْ

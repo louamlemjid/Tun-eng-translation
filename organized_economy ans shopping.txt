@@ -1,0 +1,433 @@
+cash,إسْپَاسْ
+coin, change,بْيَاسَة
+to go to the cashier, counter (past singular masculine),تْعَدَّى لِلْكَاسَة
+price, charge, fee,تَعْرِيفَة
+to cover, pay for (past singular masculine),تْغَطَّي
+to be very stingy, tight with money (past singular masculine),تْقَرْنِطْ بَرْشَا
+installment, payment,تَقْسِيطْ
+to cost (past singular masculine),تْكَلِّفْ
+price, cost,تَكْلْفَة
+financing, finance,تَمْوِيلْ
+development, growth, investment,تَنْمِيَة
+prosperity, wealth,ثَرَاءْ
+wealth,ثَرْوَة
+to value, calculate, recognize worth (past singular masculine),ثَمِّنْ
+Géant (supermarket in Tunis),جَايَانْ
+allowance,جِرَايَة
+someone who keeps himself from spending much money,حَازَقْ رُوحُو فِي المَصْرُوفْ
+a small shop,حَانُوتْ
+customer,حَرِيفْ
+he took account of his cash / papers,حْسِبْ أَوْراقُو
+to set a price for services (past singular masculine),حْسِبْ هْبُوطُو
+he figured out what he would lay down (rummy),حْسِبْ هْبُوطُو
+to collect, gather, earn (past singular masculine),حَصِّلْ
+to put on sale (past singular masculine),حَطْ لِلْبِيعْ
+a shopkeeper who sells nuts and other things,حَمَّاصْ
+money (informal),حْنَيْنَاتْ
+a shopkeeper who sells fish, fishmonger,حَوَّاتْ
+paid,خالص
+pure,خالص
+he hid the money,خَبَّى الفْلُوسْ
+he got a loan,خْذا قَرْضْ
+he received a money order,خْذَا مَانْدَا
+he lost his possessions,خْسِرْ أمْلَاكُو
+he lost a lot of money,خْسِرْ بَرْشَا فْلُوسْ
+destitution, poverty,خَصَاصَة
+poor, doesn’t have much,خْصِيصْ
+he does not have any self esteem,خْصِيصْ
+charge, fee, fine,خْطِيَّة
+he payed,خلِّصْ
+the businesses and institutions of the private sectors,خواص
+he became someone who has money,دَارِتْ فِي يِدُّو الفْلُوسْ
+accounting department,دَائِرَةْ المُحَاسَبَاتْ
+he entered the bakery,دَخِّل لِلْكُوشَة
+oven,دَخِّل لِلْكُوشَة
+a currency (Morocco, etc.), dirham,دِرْهَمْ
+to become very rich (past singular masculine),دَزْ الفْلُوسْ بِالرُّكْبَة
+distributor,دِسْتْرِيِبيتُورْ
+Foreign money (dollars, Euro, …),دُفِيزْ
+one dinar,دَنُّوسْ
+five millime coin,دُورُو
+Dollar,دُولَارْ
+brand name, good brand,دُومَارِكْ
+cash dispenser, ATM,ديستريبتور
+one dinar,دِينَارْ
+he’s poor, lost everything,رَاسُو عِرْيَانْ
+remuneration,رَامُونَارَاسْيُونْ
+to become healthier, gain weight (past singular masculine),رَبَّا صَحْتُو
+to win/earn lots of money (past singular masculine),رْبَحْ بَرْشَا فْلُوسْ
+to reduce the price (past singular masculine),رَخِّصْ
+cheap,رْخِيصْ
+person who doesn’t live by principles, embarasses himself by his actions, no dignity,رْخِيصْ
+to cause a loss, cost you something (past singular masculine),رْزَى
+to mortgage, put up collateral (past singular masculine),رْهَنْ
+poor, humble, simple,زَوَّالِي
+humble, poor, simple,زَوَّالِي عَلَى رُوحُو
+two small coins (next to nothing),زُوزْ صُورْدِي
+price,سِعْرْ
+the worst goods in the market,سْقَاطَة
+to be low, worthless, terrible person (past singular masculine),سْقَاطَة
+commodity, goods. Merchandise,سِلْعَةْ
+New Items, goods,سِلْعَةْ جْدِيدَةْ
+bad goods, merchandise,سِلْعَةْ خَايْبَةْ
+very bad goods, worthless merchandise,سِلْعَةْ زْبَالَةْ
+the best goods, top notch,سِلْعَةْ مَمُّو
+contraband, smuggled goods,سِلْعَةْ مُهَرْبَةْ
+to loan, lend (past singular masculine),سَلَفْ
+borrowing or loaning,سْلَفْ
+loan, small amount of money to be lent,سُلْفَةْ
+broker, real estate agent,سَمْسَارْ
+to take commission for being a middle man (past singular masculine),سَمْسِرْ
+minimarket,سوبرات
+supermarket,سُوپَارْ مَرْشَا
+to market, sell (past singular masculine),سوّق
+market,سُوقْ
+Weekly market,سُوقْ أسْبُوعِيَّة
+price,سُومْ
+the price is very high,سُومْ طَالَعْ بَرْشَا
+the price is reasonable,سُومْ مُسْتْحَبْ
+mall,سونتر كومرصيال
+to take care of the bill (past singular masculine),سَوَّى وَضْعِيَّةْ الفَاتُورَةْ
+brand name,سِينْيَا
+to sign, signal (past singular masculine),سِينْيَا
+grocery cart, pull cart,شاريو
+to buy, purchase (past singular masculine),شْرَى
+to buy from someone (past singular masculine),شْرَى مِنْ عَنْدُو
+to pay for someone else (past singular masculine),شْرَى مِنْ عَنْدُو
+act of purchasing something, purchase,شَرْيَةْ
+misery, poverty,شقاء
+piggy bank,شقّاقة
+how much does it cost?,شنوا سومها
+the chief of merchants (very old fashioned word),شَهْبَنْدِرْ التُّجَارْ
+shop,شوب
+shopping,شوبينڨ
+five, five dinar coin,شِينْكُو
+bag, purse,صَاكْ
+product sold in bulk (not packaged),صَبَّةْ
+to sign (past singular masculine),صَحِّحْ
+to rectify, fix, correct (past singular masculine),صَحِّحْ
+he signed a contract,صَحَّحْ كُونْتْرَا
+to export (past singular masculine),صَدِّرْ
+to get change (money) (past singular masculine),صَرِّفْ
+to conjugate a verb (past singular masculine),صَرِّفْ
+to spend money (past singular masculine),صْرَفْ
+to spend without thinking (past singular masculine),صْرَفْ مِنْ غِيرْ مُخّْ
+to print currency (past singular masculine),صَكّْ عُمْلَةْ
+traditional handicrafts,صِنَاعَاتْ تَقْلِيدِيَّة
+industry,صِنَاعَةْ
+to tighten the belt, spend less, get serious (past singular masculine),صَنْتِرْ
+money (older word),صْوَارِدْ
+to earn a lot of money (past singular masculine),صَوِّرْ بَرْشَا فْلُوسْ
+old currency (millime), money, small amount of money,صُورْدِي
+sale,صُولْدْ
+to get lots of money (past singular masculine),ضْرَبْ الدَزَّةْ
+deposit, downpayment,ضْمَدْ
+to dress a wound (past singular masculine),ضْمَدْ
+to lose your fortune, wealth, money (past singular masculine),ضَيَّعْ ثَرْوْتُو
+a small amount of money,طَرْفْ فْلُوسْ
+rich man,طَنْطْخَةْ
+to win a lot of money, earn a lot (past singular masculine),طَيَّحْ بَرْشَا فْلُوسْ
+to lower the price a little (past singular masculine),طَيَّحْ شْوَيَّا فِي السُّومْ
+to spend way too much (past singular masculine),طَيِّشْ فْلُوسُو
+year without sales,عَامْ سُونْ صُولْدْ
+has a savings account,عَامِلْ دَفْتِرْ إِدِّخَارْ
+to become rich (past singular masculine),عَبّى مْكْتوبُو بالفْلُوسْ
+deposit, downpayment,عَرْبُونْ
+عَشْرَلَافْ,money (slang)
+عَطّْ,corner grocer, larger corner store
+عُطْرِيَّةْ,freezing of assets
+عُقْلَهْ,to make contact (past singular masculine)
+عْمَلْ كُونْتَاكْتْ,currency
+عُمْلَة,to give someone a good price (past singular masculine)
+عَمْلُو سُومْ,he’s really wealthy, there’s a lot of food to eat
+عَنْدُو الخِيرْ بْزَايِدْ,he has a lot of money
+عَنْدُو بَرْشَا فْلُوسْ,to replace, substitute, repay (past singular masculine)
+عَوِّضْ,to pay indemnity, repay, pay damages (past singular masculine)
+عَوَضْلُو الضَرَرْ,expensive
+غَالِي,valuable, significant
+غَالِي,chamber of commerce
+غُرْفةْ تِجَارِيَّةْ,to go up in price (past singular masculine)
+غَلَّا,rich, well-off
+غْنِيْ,to become richer, stronger, tougher (past singular masculine)
+غَوِّلْ,bill, charge
+فَاتُورَةْ,has no money, bankrupt
+فَالِسْ,to deliver, distribute goods (past singular masculine)
+فَرَّقْ سِلْعَةْ,(old French) franc, millime
+فْرَنْكْ,duty free shop
+فْرِيشُوپْ,to cancel, tear up a contract (past singular masculine)
+فَسِّخْ الكُونْتْرَا,to empty a shop, leave a shop (past singular masculine)
+فضَّى لِمْحَلْ,extreme poverty
+فَقْرْ مُدْقَعْ,to go bankrupt (past singular masculine)
+فْلِسْ,he’s rich
+فْلُوسُو بَرْشَا,money, diminuitive form
+فَلَيْسَاتْ,to spend money wildly, splurge (past singular masculine)
+فَنْدَقْ,rich, well-off
+فِي سْرَاهْ,display case, shop window
+فِيتْرِينَةْ,fiscal
+فِيسْكَالْ,to set the price (past singular masculine)
+فِيكْسَى السُّومْ,finance
+فِينُونْسْ,it has value, is beneficial
+فِيهْ مَنْفْعَةْ,statutes, articles of association/incorporation
+قَانُونْ أَسَاسِي,Tax office
+قْبَاضَةْ,to loan (past singular masculine)
+قَرِّضْ,loan
+قَرْضْ,wholesaler
+ڨْرُوسِيسْتْ,something to do, stuff to buy, shopping
+قضْيَة,an economic leap forward, development
+قَفْزَةْ إِقْتِصَادِيَّةْ,small shop that only sells cigarettes
+ڨُمْرِڨْ,to file for bankrupcy (past singular masculine)
+قَيِّدْ فَلْسَةْ,profit value, amount
+قِيمَةْ الأَرْبَاحْ,cashier, cash register
+كَاسَةْ,loofa
+كَاسَةْ,To buy on credit
+كَرْدَى,rich people of the country (crass)
+كْرُزْ لِبْلَادْ,Subleasing
+كَرْيَةْ مِنْ تَحْتْ كَرْيَةْ,Credit
+كْرِيدِي,Purchase order
+كْمَانْدَا,commander
+كْمَانْدَا,to order (past singular masculine)
+كْمَنْدَى,extremely tight with money, stingy, Scrooge
+كَمُّوشَةْ عَلْ لِفْلُوسْ,National health insurance of Tunisia, CNAM
+كْنَامْ,Smuggling
+كُنْتْرَا,price
+كُومِيسْيُونْ,to make a fortune (past singular masculine)
+كَوِّنْ ثَرْوَةْ,account
+كُونْتْ,he’s very rich, healthy
+لَابَاسْ عْلِيهْ بَرْشَا,to waste money, spend a lot of money (past singular masculine)
+لَوَّحْ فْلُوسْ,he’s poor
+مَا فِي حَالُوشْ,he has tons of money and property, such that he doesn’t know where some of it is
+مَا يَعْرِشْ عَلَى طَرْفْ خْلَاهَا وِينْ,he has nothing but the clothes on his back
+مَا يَكْسَابْ فِي الدِّنْيَا كَانْ حَوَايْجُو,all he has is God, he’s very poor
+مَا يَكْسَابْ كَانْ وِجْهْ رَبِّي,market
+مَارْشِي,central market
+مَارْشيِ سُونْتْرَالْ,rich, well-off, has lots of properties
+مَارْكَانْتِي,state of being rich, well-off
+مَارْكَنْتِيَّةْ,financial
+مَالِيَّة,treasure chest
+مَالِيَّة,cursed by poverty, he’ll always be poor
+مِبْلِي بِالفَقْرْ,in debt, having borrowed something
+مِتْسَلِّفْ,accounting
+مُحَاسْبَة,economic oversight
+مُرَاقْبة إقْتِصَادِيَّة,income, prize
+مَرْبُوحْ,bribed, paid off
+مُرْتَشِي,large amount of money
+مُرْشَانَةْ,old personality, mentioned in popular folk songs
+مُرْشَانَةْ,the market is getting better
+مَرْشِي طَالَعْ,distribution center
+مَرْكِزْالتَّوْزِيعْ,someone owes him money
+مَرْهُونْ,counterfeit, falsified
+مُزَوِّرْ,in debt, owing someone something
+مُسَالْ,supporter, sponsor
+مُسَانِدْ,beneficiary, someone who gets something out of a matter
+مِسْتَنْفَعْ,buyer
+مُشْتَرِي,Scrooge, cheap
+مِشْحَاحْ,project, business venture
+مَشْرُوعْ,exporter
+مُصَدِّرْ,spending money
+مَصْرُوفْ,factories
+مْعَامِلْ,transactions, interactions, relations
+مُعَامَلَاتْ,financial transaction
+مُعَامْلَةْ مَالِيَّةْ,having good luck, swimming in money
+مَعَوّْمَةْ,store, supermarket, department store
+مَڨَازَانْ,headquarters
+مقَرْ,achievements, acquisitions
+مُكْتَسَبَاتْ,rich, well-to-do, has earned a lot
+مْكَوِّنْ,to own (past singular masculine)
+مْلِكْ,millime, one thousandth of a dinar
+مِلِّيمْ,millionaire
+مِلْيُنَارْ,poor, having nothing
+مْنَتِّفْ,free zone
+مِنْطْقَةْ حُرَّةْ,whatever the price
+مَهْمَا كَانَ الثَمَنْ,to finance, fund (past singular masculine)
+مَوِّلْ,owner
+مُولَى,landowner
+مُولَى لَرْضْ,he always helps the poor, generous
+مَيْخَلِهَاشْ بِالزَوَّالِي,living in misery, poverty
+مِيزْرَا,absolute misery, poverty
+مِيزِيرْيَا زَرْقَةْ,he isn’t stingy, generous
+مَيْشِدِّشْ الفْلُوسْ,he knows nothing but money, cares only about it
+مَيَعْرِفْ شَيْ مَعَ لِفْلُوسْ,output, production
+نَاتِجْ,gross domestic product (GDP)
+نَّاتِجْ القَوْمِي الخَامْ,rich people
+نَّاسْ إِلِي لَابَاسْ عْلِيهِمْ,wealthy people, people living easy life
+نَاسْ عَايْشَةْ,people of high class
+نَاسْ هَايْ,the same social class
+نَفْسْ الطَّبَقَةْ الإِجْتِمَاعِيَّةْ,to decrease spending, expenses (past singular masculine)
+نَقِّصْ فِي المَصْرُوفْ,growth, development
+نُمُو,economic growth/development
+نُمُو إقْتِصَادِي,to post something on line to sell it (past singular masculine)
+هَبِّطْهَا عَلْ الأَنْتِرْنَاتْ بِشْ إِبِيعْهَا,he is out of money
+وْفَاتْ فْلُوسُو,to stop the meter (past singular masculine)
+وَقِّفْ كُونْتَارْ,rich people, high class people
+وْلَادْ بُمْ بُمْ,he went bankrupt
+وَلَّى فَالِسْ,wholesaler
+يْبِيعْ بالجُمْلَة,interest (at a bank)
+أنتاريس,to invest (past singular masculine)
+أنفستى,to spend a lot without thinking (past singular masculine)
+فَنْدق,to swell, get higher through inflation (past singular masculine)
+تْضَخِّمْ,they’re sold really cheaply
+بَاعُو بْزُوزْ صُورْدِي,wallet
+پُورْتْ فُويْ,binder
+پُورْتْ فُويْ,under the table, by bribe, without taxes
+تَحْتْ الطَّاوْلَة,ألْفينْ
+to spend wildly, to waste money without thinking (past singular masculine),بَعْزَقْ
+to save up, collect (past singular masculine),إدّخر
+to borrow (past singular masculine),تْسَلِّفْ
+annual income statement,تَصْرِيحْ عَلَى الدَّخْلْ السَّنَوِي
+to be bought, purchased (past singular masculine),تِشْرَى
+to invest (past singular masculine),إستثمر
+to be sold in bulk (past singular masculine),بَاعْ بالجُمْلَةْ
+to exchange, trade (past singular masculine),بَادِلْ
+to beg, ask for money (past singular masculine),إمِدْ يِدُّو
+cheap, just a dinar,بُودِينَارْ
+project, business venture,پْرُوجِي
+inflation,تَضَخُّمْ مَالِي
+euro (currency),أُورُو
+economic downturn,إنْكِمَاشْ إقْتِصَادِي
+showcase, store window,فِيتْرِينَا
+to beg, ask for money (past singular masculine),تْسَوِّلْ
+signing, conclusion of a contract,إبْرَامْ
+tax (outdated),إتَاوَة
+certificate of payment, of clearance,أتَسْتَاسْيُونْ دُو بَايْمُونْ
+to set the price (past singular masculine),حَدِّدْ الثَّمَنْ
+he spent a lot of money: credit card upon credit card,حُطْ كَارْطَا تْحُكْ فِي كَارْطَة
+to reduce its value (past singular masculine),حِطِ مِلْ القِيمَة مْتَاعْهَا
+to make a profit (past singular masculine),حَقَّقْ أَرْبَاحْ
+to open a bank account (past singular masculine),حِلْ كُونْتْ
+to save money, hide it under the mattress (past singular masculine),إخَبِّي تَحْتْ رَاسُو
+to use, invest one’s money (past singular masculine),خدّمْ فْلُوسُو
+savings (account),إدِّخَارْ
+bill (at a restaurant),أَدِسْيُونْ
+to make extra money, invest one’s money (past singular masculine),دَوِّرْ الزِّيرُو
+to pay the electricity bill so the power comes back on (past singular masculine),رَجَّعْ الضَّوْ
+to pay the water bill so the water comes back on (past singular masculine),رَجَّعْ المَاءْ
+cheaper,أرْخِصْ
+multi-billionaire,أرْشِي مِلْيَارْدَارْ
+he has a ton of money, he stuffs it in containers,رُصْ فِي الفْلُوسْ رَصَّانْ
+investment,إسْتِثْمَارْ
+reimbursement for expenses,إسْتِرْجَاعْ المَصَارِيفْ
+to become rich (past singular masculine),إسْتَغْنَى
+to no longer need, to consider unnecessary or below you (past singular masculine),إسْتَغْنَى
+importation,إسْتِيرَادْ
+traditional markets,أسْوَاقْ العَرْبِي
+reasonable prices, good prices,أسْوَامْ مَعْقُولَة
+expensive prices, really high prices,أَسْوَامْ نَارْ
+insurance,أسُورُونْسْ
+to boast of one’s wealth, be proud of it (past singular masculine),شَبْرِشْ بِفْلُوسُو
+to spend a lot of money, spend wildly (past singular masculine),إشَنْدَقْ
+publicity, advertisement,إشْهَارْ
+tangible and intangible value of a commercial property,أصْلْ تِجَارِي
+advertisements, commercials,إعْلَانَاتْ
+to lower the price, make a discount (past singular masculine),أعْمْلِلنَّا رُومِيزْ
+to offer a sale, propose a sale (past singular masculine),إقترح البيوع
+economy,إقْتِصَادْ
+market economy,إقْتِصَادْ السُّوقْ
+economy and management (course in school),إقْتِصَادْ وْ تَصَرُّفْ
+the food industry,أڨْرُو آلِيمُونْتَارْ
+export,آكْسْبُورْ
+economy,إكُونُومِي
+economist,آكُونُومِيسْتْ
+thousand,ألْفْ
+one dinar,ألْفْ
+two thousand,أَلْفِينْ
+two dinars,أَلْفِينْ
+owners,إمَّالِي
+import,أمْپُورْ
+to give alms, give to a beggar (past singular masculine),مِدْ حْوِيجَة لْرَبِّي
+supplies,إمْدَادَاتْ
+to amend a contract (past singular masculine),نَقَّحْ عَقْدْ
+statutes of a company,بَاتيندَة
+bazaar, market,بَازَارْ
+negotiating, haggling over price,بَاعْ و شْرَى
+wholesale, in bulk,بالجُمْلَة
+profit, earnings,بَانَافِيسْ
+bank,بَانْكَا
+rich, well-to-do,بُرْجْوَازِيَّة
+to offer someone money (past singular masculine),بروبوزى عليه فلوس
+market, bazaar,بَزَارْ
+can you lower the price for us?,بِشْ تْنَقْصِلْنَا فِي السُّومْ
+tip (e.g. at restaurant),بَقْشِيشْ
+bank,بَنْكْ
+shop, boutique,بُوتِيكْ
+wallet,بُورْتْ مُونَا
+well-to-do, rich,بُورْجْوَازِي
+stock market,بُورْصَة
+a sale,بِيعَة
+bad deal, bad sale,بِيعَة مْقَطْعَة
+balance sheet,بِيلُونْ
+check up, review,بِيلُونْ
+commercial, advertisement,پِيبْلِيسِيتَا
+trader, business person,تَاجِرْ
+insurance,تَأْمِينْ
+health insurance,تَأمِينْ عَلَى المَرَضْ
+commercial exchange,تَبَادُلْ تِجَارِي
+to donate one’s money (past singular masculine),تبرع بفلوسو
+trade, commerce,تِجَارَة
+bank transfer,تَحْوِيلْ بَنْكِي
+to pay (past singular masculine),خَلِّصْ
+to save, rescue out of a problem (past singular masculine),خَلِّصْ
+illegal trafficking,تْرَافِيكْ
+advance, deposit,تَسْبْقَة
+he has a hole in his pocket, spends a lot, can’t hang on to money,جِيبُومَنْقُوبْ
+to purchase, buy, go shopping (past singular masculine),قْضَى
+bankrupt, has no money,مْفَلِّسْ
+benefactor, donor,مِتْبَرِّعْ
+bill (to be paid),فَاتُورَةْ الِإسْتِخْلَاصْ
+billionaire,مِلْيَرْدَارْ
+budget,مِيزَانِيَّةْ
+cargo, goods,كَارْقِيزُونْ
+cargo, goods,كَارْقُو
+Carrefour (large French department store),كَارْفُورْ
+cash,كَاشْ
+business competition,كُونْكِيرُونْسْ
+consumer,كُونْسُمَاتُورْ
+consumer,مُسْتَهْلِكْ
+in contractual relationship,مِتْعَاقِدْ
+to pay an advance, deposit for a hall (usually for wedding) (past singular masculine),عَرْبِنْ عَ الصَّالَةْ
+rights to a company and its location,فُونْ دْ كُومَارِسْ
+free, at no cost,مَجَانِي
+high class,طَبَقَةْ رَاقْيَةْ
+high class,هَايْ كْلاَسْ
+industrial,صِنَاعِيَّةْ
+industrial complex,مُجَمَّعْ صِنَاعِي
+insurance fund,صُنْدُوقْ تَأْمِينْ
+gross domestic product,نَّاتِجْ الدَّاخِلِي الخَامْ
+to have no money, be bankrupt (past singular masculine),يِفْلِي
+to be valuable (past singular masculine),عَنْدُو قِيمَةْ
+kiosk,كُشْكْ
+landowner, landlord,مَلَّاكْ
+to make an offer, make a bid (past singular masculine),عْمَلْ آبَالْ دُوفِرْ
+life, cost of living,مَعِيشَةْ
+Lira (currency),لِيرَةْ
+living in poverty and difficulty,عَايِشْ فِي الهَمّْ
+landlord,مُولاَتْ الدَّارْ
+gold coins,لْوِيزْ
+to make a profit, earn money (past singular masculine),عْمَلْ بِنِفِيسْ
+money transfer,مَانْدَا
+money,فْلُوسْ
+monopoly,مُونُوبُولِي
+scrooge, careful with money, tightwad,يِدُّو مَيْدَخِّلْهَاشْ لْجِيبُو
+poor,فْقِيرْ
+poverty,فَقْرْ
+price, cost,كُلْفَةْ
+properties,مُمْتَلَكَاتْ
+of or relating to real estate,عَقَّارِي
+real estate,عَقَّارِيَّةْ
+receipt,كِيتُونْسْ
+rent,كْرَاءْ
+revenues, income,مَدَاخِيلْ
+rich, doing well, has an easy life,مَيْسُورْ
+street vendor,نَصَّابْ
+social class,كْلَاسْ سُوسْيَالْ
+expenses,مَصَارِيفْ
+store, place, area,مْحَلْ
+larger store, department store,مَغَازَانْ
+standard of living,مُسْتَوَى المَعِيشَةْ
+tight-fisted, scrooge,يِدُّو دِيمَا مْسَكْرَةْ
+trade, commerce,كُومَارْسْ
+business person, dealer,كُومِرْسُونْ
+to illegally import, to traffic in (past singular masculine),هَرِّبْ
+deposited money, saved money at the bank,وَدِيعَةْ
+someone who wastes, spends a lot,مُبَذِّرْ
+let’s agree on the price first,نِتْفَاهْمُو فِي السُّومْ السَّاعَةْ
+monetary,نَقْدِي

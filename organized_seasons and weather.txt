@@ -1,0 +1,108 @@
+traditional calendar period,بُوعَزْرَة
+to grow strong, turn into a storm (past singular masculine),تَعْصِفْ
+snow,ثِلْجْ
+It’s harvest time,جَا وَقْتْ الجَنِي
+January,جَانْفِي
+drought,جَفَافْ
+جَمْرَة المَاءْ,جَمْرَة الهْوَاءْ
+June,جْوَانْ
+one of the traditional seasonal periods,حْسُومْ
+autumn, fall,خْرِيفْ
+December,دَاسُمْبُرْ
+the arrival of autumn/fall,دْخُولْ الخْرِيفْ
+the arrival of spring,دْخُولْ الرْبِيعْ
+the arrival of winter,دْخُولْ الشْتَاءْ
+the arrival of summer,دْخُولْ الصِّيفْ
+tornado, storm,دَوَّامَة
+a hundred dinars,دَوَّامَة
+spring,رْبِيعْ
+windy day, lots of wind,رَيَّاحِيَّة
+wind,رِيحْ
+whirlwind, tornado,زَوْبْعَة
+season,سَازُونْ
+seasonal,سَازُونِيَا
+September,سِبْتُمْبَرْ
+heat,سْخَانَة
+hot,سْخُونْ
+extremely cold weather,سْقُنْطْرِي
+season,سيزون
+seasonal worker,سيزونيا
+Chabbat (February in the Middle East),شَبَّاطْ
+winter, rain,شتاء
+he started wearing winter clothes,شَتَّى
+month,شْهَرْ
+extreme cold,صْقِيعْ
+hail,صْقِيعْ
+arthritis, swelling caused by cold,صْقِيعْ
+summer-like, of summer,صَيَّافِي
+summer,صِيفْ
+fog,ضْبَابْ
+foggy, unclear,ضْبَابَةْ
+weather,طَقْسْ
+storm,عَاصْفَةْ
+sandstorm,عَاصْفَةْ رَمْلِيَّةْ
+storm that carries with it mud, dust,عْجَاج
+rain and sun at the same time,عِرْسْ الذِّيبْ
+the hottest part of the afternoon,غَرْغُورْ لْقَايْلَةْ
+rain,غَيْثْ
+cloudy,غَيَّمْ
+season (weather or academic),فَصْلْ
+floods,فَيَضَانَاتْ
+to measure the heat, temperature (past singular masculine),قَاسْ السّْخَانَةْ
+drought,قَحْطْ
+cold days at the end of February,ڨِرّةْ العَنْزْ
+the rain stopped,قَصِّتْ الشْتاءْ
+autumnal noontime,قْوَايِلْ الرُّمَّانْ
+Rainbow,قَوْسْ قُزَحْ
+solar eclipse,كُسُوفْ
+Climatology,كْلِيمَاتُولُوجِي
+period in December with warm nights,لْيَالِي البِيضْ
+period in January with cold nights,لْيَالِي السُّودْ
+May (the month),مَايْ
+thundering,مْرَعّْدَةْ
+cloudy,مَسَحّْبَةْ
+foggy,مْضَبِّبْ
+rain,مَطَرْ
+windy with dust and dirt,مَعَجْعَجَةْ
+Richter scale,مِقْيَاسْ رِشْتِلْ
+fogginess, mold,نَدْوَة
+conference, symposium,نَدْوَة
+to cause humidity, make moldy (past singular masculine),نَدَّى
+a period that comes immediately after the arrival of spring,نُزُولْ جَمْرِةْ التْرَابْ
+holiday,نْهَارْ عُطْلَةْ
+rain (regional),نَوْ
+strong wind, the wind’s strong,هْوَاءْ طَايِرْ
+the air’s not flowing, it’s stuffy,هْوَاءْ مْسَكِّرْ
+there’s air flow, it’s fresh,هْوَاءْ يْدُورْ
+air, airflow, breeze,هْوَاءْ
+the middle of the year,وِسْطْ العَامْ
+cold, cold weather,برد
+the nights and days are of equal length,إسْتِوَاءْ اللَّيْلْ وَالنَّهَارْ
+to become desert, dry up (past singular masculine),تَصَحُّرْ
+to sprinkle, rain lightly (past singular masculine),تبخنس
+to thunder (past singular masculine),رَعِّدْ
+the beginning of the hottest part of the summer (mid-July),أوِّلْ أَوِسُّو
+tropical, on the equator,إسْتِوَائِي
+April,أفْرِيلْ
+the intervening days between winter and spring,الحْسُوْم
+erosion, cutting away of land via water,إنْجِرَافْ
+volcanic eruption,إْنِفجَارْ بُرْكَانْ
+August,آُوتْ
+hottest period of summer (mid-July to mid-August),أوِسُّو
+whirlpool, swirl, big hole,بَالُوعَة
+the tide is coming in,بحر قدّم
+to rain lightly, drizzle (past singular masculine),بَخْنَاسْ
+hail (precipitation),تَبْرُورِي
+to peal, as thunder (past singular masculine),رَعِّدْ
+tsunami,تْسُونَامِي
+February, by the European calendar,فْرَايِرْ العَجْمِي
+period of very cold nights,لَيَالِي السُّودْ
+climate,مُنَاخْ
+February,فِيفْرِي
+flood,فَيَضَانْ
+November,نُوفُمْبِرْ
+overcast, cloudy,مْغَيِّمْ
+Richter scale,مِقْيَاسْ رِشْتِرْ
+season,مَوْسِمْ
+weather broadcast, forecast,مِيتِيُو
+weather broadcast, forecast,نَشْرَةْ جَوِيَّةْ

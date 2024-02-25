@@ -1,0 +1,282 @@
+Tunisians,تْوَانْسَة
+the Eiffel tower,تُورْ إِيفَالْ
+from Tozer,تُوزْرِي
+Tunisia,توْنسْ
+Tunis,تُونِسْ
+Central Tunisia,تُونِسْ الوُسْطَى
+Tibet,تِيبَاتْ
+Jamaica,جَامَايِيكْ
+Atlas Mountains: a range of mountains in North Africa that extends from Morocco to Tunisia,جْبَالْ الأَطْلِسْ
+Khemir Mountains,جْبَالْ خْمِيرْ
+mountain,جْبَلْ
+Chaanbi Mountain (near Kef),جْبَلْ الشْعَانْبِي
+Amar’s mountain: a small mountain located in Ariana,جْبَلْ عَمَّارْ
+Mountainous,جَبَلِيَّة
+people who are from jerba,جْرَابَة
+Jerba: island in south of Tunisia,جِرْبَة
+a person from Jerba,جِرْبِي
+Zarzis (city near Jerba),جِرْجِيس
+someone from the Jarid area,جْرِيديَّة
+Comoros Islands,جُزْرْ القَمَرْ
+island,جَزِيرَة
+a cemetry in Tunis, the biggest in the country,جَلَّازْ
+Jendouba, city in Tunisia’s northwest,جَنْدُوبَة
+South Africa,جَنُوبْ افْرِيقْيَا
+Georgia,جُورْجْيَا
+Weeping Wall in Israel,حَائِطْ المَبْكَى
+Laouina prison,حَبْسْ العْوِينَة
+Mornaguiya prison,حَبْسْ المُرْنَاقِيَّة
+Borj El Amri prison,حَبْسْ بُرْجْ العَامْرِي
+Hafsiya, a downtown neighborhood in Tunis,حَفْصِيَّة
+an old district in Tunis, in the medina,حَلْفَاوِينْ
+A coastal region near the capital (Lagoulette),حَلْقْ الوَادْ
+a touristic region in Tunisia,حَمَّامَاتْ
+Punic baths (hammams),حَمَّامَاتْ بُونِيَّة
+neighborhood,حُومَة
+the Arab Gulf,خَلِيجْ العَرَبِي
+The Gulf of Tunis,خَلِيجْ تُونِسْ
+Dakar (Capital of Senegal),دَاكَارْ
+Dubai (a city in the United Arab Emirates),دُبَىْ
+Algeria,دْزَايِرْ
+a village in a rural area,دَشْرَة
+neighborhood near Bardo,دَنْدَانْ
+Denmark,دَنْمَارْكْ
+town in Binzerte,رَاسْ الجْبَلْ
+mountain peak,رَاسْ الجْبَلْ
+Cap Verde,رَاسْ لَخْضِرْ
+Hill,رَبْوَة
+the hill at Sidi Bou Said,رَبْوَة سِيدِي بُوسْعِيدْ
+Russia,رُوسْيَا
+Rome,رُومَا
+Romania,رُومَانِيَا
+countryside, rural area,رِيفْ
+Saturn,زُحَلْ
+Zaghouan: city just south of Tunis,زَغْوَانْ
+Zambia,زَمْبِيَا
+narrow street, alley,زَنْقَة
+industrial zone,زُونْ أنْدُسْتْرُويَالْ
+square, plaza,سَاحَة
+Qasba plaza/square,سَاحَةْ القَصْبَة
+coast,سَاحِلْ
+coastal,سَاحْلِي
+marsh, dry lake bed,سَبْخَة
+Saudi,سَعُودِي
+Saudi Arabia,سَعُودِيَّة
+Scotland,سْكُوتْلَنْدَا
+Slovakia,سُلُوفَاكْيَا
+Slovenia,سْلُوفِينْيَا
+Siliana,سِلْيَانَةْ
+downtown,سنتر فيل
+Senegal,سِنِغَالْ
+Singapore,سنْغَفُورَةْ
+Sudan,سُودَانْ
+Great Wall of China,سور الصّين العظيم
+Syria,سوريا
+Sousse,سوسة
+Sousse Kantaoui (tourist area),سوسة القنطاوي
+Switzerland,سْوِيسْرَا
+street, avenue,شَارِعْ
+the main street,شارع رئيسي
+Levant,شام
+The Avenue des Champs-Élysées,شان زاليزي
+peninsula,شِبْهْ جَزِيرَةْ
+Cap Bon, Nabuel peninsula,شِبْهْ جَزِيرَةْ الوَطَنْ القِبْلِي
+East,شَرْقْ
+beach, seashore,شَطّْ
+Shaanbi (the name of a mountain),شْعَانْبِي
+north,شَمَالْ
+north-west,شَمَالْ الغَرْبِي
+north-east,شَمَالْ شَرْقِي
+northern,شمالي
+Shanghai (a city in China),شنڨاي
+Chile,شيلي
+Serbia,صِرْبْيَا
+incline, hill,صَعْدَةْ
+Sfax,صْفَاقِسْ
+Sicily,صِقِلِيَّةْ
+Somalia,صُومَالْ
+China,صِينْ
+Tabarka (city in northwest),طْبَرْقَةْ
+Italy,طَلْيَانْ
+Iraq,عِرَاقْ
+Amman,عَمَّانْ
+place in Binzerte near Raf Raf,عِينْ المِسْتِيرِي
+Guinea,غِينْيَا
+Euphrates River,فُرَاتْ
+Philippines,فِلِبِّينْ
+Roman Carthage villas,فِيلَا رُومَانْ قَرْطَاجْ
+Gabes, city in southern Tunisia,ڨَابِسْ
+Cyprus,قُبْرِصْ
+Gbelli, city in southern Tunisia,ڨْبِلِّي
+Korba, city in Nabeul,قُرْبَةْ
+Korbos, city in Nabeul,قُرْبِصْ
+ksar said, city in Manouba,قْصَرْ سْعِيدْ
+south pole,قُطْبْ جَنُوبِي
+north pole,قُطْبْ شَمَالِي
+Bizerte bridge,قَنْطِرِةْ بِنْزَرْتْ
+Bab Khadhra arch,قُوسْ بَابْ الخَضْرَاءْ
+El Kef, Jendouba, Béja, tunisian northwest region,كَ جِ بَ
+Russian intelligence police,كَ جِ بَ
+Kazakhstan,كَازَخْسْتَانْ
+Kaf (governorate in northwest Tunisia),كَافْ
+Cameroon,كَامِيرُونْ
+Canada,كَنَدَا
+Kinshasa (capital of DRC),كِنْشَاسَا
+Ivory Coast,كُوتْ دِي فْوَارْ
+Korea,كُورْيَا
+South Korea,كُورْيَا الجَنُوبِيَّةْ
+North Korea,كُورْيَا الشمَالِيَّةْ
+Quebec,كِيبَاكْ
+Lac (neighborhood in Tunis), lake,لَاكْ
+Laouina (neighborhood in Tunis),لَعْوِينَةْ
+plum,لَعْوِينَةْ
+England,أنْڨْلُتَارْ
+Marseille,مَارْسِي
+Jugurtha’s table (mountain in Kef),مَايْدَةْ يُوغُرْطَةْ
+Hungary,مَجَرْ
+district in Sfax,مَحْرِس
+(Ant)arctic Ocean,مُحِيطْ مُتَجَمِّدْ
+Pacific Ocean,مُحِيطْ هَادِي
+city,مْدِينَة
+neighborhood in southern Tunis,مُرْنَاقْ
+type of wine,مُرْنَاقْ
+Mexico,مِكْسِيكْ
+Moknin, city in Monastir,مُكْنِينْ
+the lighthouse of Alexandria,مَنَارَةْ الِإسْكَنْدَرِيَّةْ
+Namibia, a country in southwest Africa,نَامِيبْيَا
+the Nile,نِيلْ
+Hergla (city in Sousse),هِرْڨْلَةْ
+town at the end of the Tunis peninsula,هَوَّارِيَّة
+river in northwest Tunisia,وَادْ مَلَّاقْ
+river in Tunisia,وَادْ وِدْرَانْ
+town in Kairouen,وِسْلاَتْ
+Kasbah municipal headquarters,بَلَدِيَّة القَصْبَة
+Spain,إسبانيا
+Jayarra (neighborhood in Sidi Hassine in Tunis),جَيَاّرَة
+America,أمريكْيَا
+Persepolis (ruins in Iran),پَارْسَابُولِيسْ
+Passage (transportation hub in Tunis),پاساج
+Ethiopia,أثْيُوبْيَا
+Jordan,أُرْدُنْ
+Ireland,إرْلَنْدَا
+Armenia,أرْمِينْيَا
+Europe,أورُوپَّا
+Ariana, neighborhood in northern Tunis,أرْيَانَة
+Iceland,إزْلَنْدَا
+Australia,أسْتْرَالِيَا
+Asia (continent),آسْيَا
+Asia (woman’s name),آسْيَا
+Africa,إفْرِيقْيَا
+Central Africa,إفْرِيقْيَا الوُسْطَى
+Ukraine,أكْرَانْيَا
+Germany,ألْمَانْيَا
+Emirates,إمَارَاتْ
+South America,أمَرِيكْيَا الجَنُوبِيَّة
+Indonesia,أنْدُونِيسْيَا
+Uranus,أورَانُوسْ
+Uzbekistan,أوزْبَاكِسْتَانْ
+Ibiza (island in Spain or car brand),إيبِيزَا
+Iran,إيرَانْ
+Italy,إيطَالْيَا
+Bab Jadid (neighborhood in southern medina of Tunis),بَابْ الجْدِيدْ
+Bab Bhar, Porte de France (main gate of Tunis medina),بَابْ بْحَرْ
+Bab Souika (neighborhood in medina of Tunis),بَابْ سْوِيقَة
+Beja (city in northwest Tunisia),بَاجَة
+Bardo, neighborhood in western Tunis,بَارْدُو
+Paris,بَارِيسْ
+the Mediterranean Sea,بَحْرْ الأَبْيِضْ المُتَوَسِّطْ
+the Red Sea,بَحْرْ الأَحْمَرْ
+the Adriatic Sea,بَحْرْ الأَدْرِيَاتِيكِي
+the Black Sea,بْحْرْ الأَسْوَدْ
+the Caspian Sea,بَحْرْ قَزْوِينْ
+Bahrain,بَحْرَيْنْ
+Brazil,بْرَازِيلْ
+Portugal,بُرْتُغَالْ
+mountain and city in Siliana,بَرْڨُو
+Brussels,بْرُوكْسَالْ
+Pakistan,بَكْسْتَانْ
+Belgium,بِلْجِيكْيَا
+Bulgaria,بُلَغَارْيَا
+Belevedere Zoo and park in Tunis,بِلْفِيدِيرْ
+Bizerte (city in northern Tunisia),بِنْزَرْتْ
+Bangladesh,بَنْغْلَادَاشْ
+Botswana,بُوتْسْوَانَا
+mountain in Jendouba,بُوخْزَارَة
+Burkina Faso,بُورْكِينَا فَاصُّو
+Bouchoucha, neighborhood in Bardo with an army barracks,بُوشُوشَة
+Bououn, last name and place in Sidi Bou Zid,بُوعُونْ
+two-peaked mountain in south Tunis,بُوڨَرْنِينْ
+Poland,بُولُونْيَا
+mountain in Gafsa,بُوهِدْمَة
+Beirut,بَيْرُوتْ
+Byzantine,بِيزَنْطِي
+Paris,پاري
+Palmarium, mall on main avenue of Tunis,پلْمَارْيُومْ
+Thala, city in Kasserine,تَالَة
+Thailand,تَايْلَنْدَا
+Turkey,تُرْكْيَا
+Chad (country),تْشَادْ
+Czech Republic,تْشَاكْ
+Tatouine (state in southern Tunisia),تَطَاوِينْ
+Geneva,جوناف
+Champs Elysées, main street of Paris,شُونْ زٍلِيزِي
+Afghanistan,أفْغَنِسْتَانْ
+Africa,لَفْرِيكْ
+old medina, old city center,مْدِينَة عَرْبِي
+monument, archaeological site,مَعْلِمْ
+Atlantic Ocean,مُحِيطْ الأَطْلَسِي
+Austria,نِمْسَا
+Barcelona station (downtown Tunis),مَحَطَّةْ بَرْشَلُونَةْ
+Carthage,قَرْطَاجْ
+Carthage Palace, Presidential Palace,قْصَرْ قَرْطَاجْ
+Colombia,كُولُومْبْيَا
+Cuba,كُوبَا
+Egypt,مَصْرْ
+Europe,لُورُوبْ
+Fatnassa (city in Tataouine),فَطْنَاسَةْ
+Finland,فِنْلَنْدَا
+France,فْرَانْسَا
+Gafsa,ڨَفْصَةْ
+Kasserine,ڨَصْرِينْ
+Greece,يُونَانْ
+Grombalia (town in Nabeul),ڨْرُنْبَالْيَةْ
+India,هِنْدْ
+Indian Ocean,مُحِيطْ لْهِنْدِي
+Japan,يَابَانْ
+Kairouan,قِرْوَانْ
+Kenya,كِينْيَا
+Kuwait,كُوَيْتْ
+Lafayette (neighborhood in downtown Tunis),لَافَايَاتْ
+Lebabon,لُبْنَانْ
+Libya,لِيبْيَا
+London,لُنْدُنْ
+Luxembourg,لُوكْسْمْبُورْغْ
+Macedonia,مَقْدُونْيَا
+Madagascar,مَدَغَشْقِرْ
+Malaysia,مَالِيزْيَا
+Mali,مَالِي
+Malta,مَالْطَا
+Manouba (western section of Tunis),مَنُّوبَةْ
+Mars,مِرِّيخْ
+Mars,مَارِسْ
+Mauritania,مُورِيطَانْيَا
+Mellassine, neighborhood in southern Tunis,مَلَّاسِينْ
+Menzah (neighborhood in northern Tunis),مَنْزَهْ
+Miami,مِيَامِي
+Milan,مِيلاَنُو
+Milien River (in Rades),وَادْ مِلْيَانْ
+Monastir, city in coastal Tunisia,مِسْتِيرْ
+Mongolia,مَنْغُولِيَا
+Montenegro,مُونْتِنِقْرُو
+Montreal,مُونْرِيَالْ
+Morocco,مَغْرِبْ
+Neptune,نِبْتُونْ
+Netherlands, Holland,هُولَنْدَا
+New Zealand,نْيُوزِلاَنْدَا
+Nigeria,نِيجِيرْيَا
+Norway,نُرْوِيجْ
+Palestine,فِلَسْطِينْ
+Siliana River,وَادْ سِلْيَانَةْ
+Middle East, mideast,وَسَطْ شَرْقِي
+Venezuela,فِنِزْوِيلَّا
+Yemen,يَمَنْ
