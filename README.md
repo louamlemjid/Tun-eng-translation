@@ -1,9 +1,8 @@
 # Tun-eng-translation
-Sure, here's the revised description:
 
 ---
 
-**Project Name:** Tunisian-English Translator Dataset
+**derja tounsya:** Tunisian-English Translator Dataset
 
 **Description:**
 Welcome to the Tunisian-English Translator Dataset project! Our mission is to collaboratively assemble a comprehensive dataset for translating Tunisian words into English. This dataset will serve as a vital resource for various natural language processing tasks, linguistic research endeavors, and machine learning projects.
